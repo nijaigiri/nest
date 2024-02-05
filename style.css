@@ -1,0 +1,14 @@
+.ni{
+    color:blanchedalmond;
+}
+.na{
+    display: flex;
+    justify-content: center;
+  
+}
+.header{
+    padding: 5px;
+    text-align:center ;
+    background-color:burlywood;
+    font-size: 40px;
+}
